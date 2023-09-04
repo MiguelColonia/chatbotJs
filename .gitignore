@@ -1,0 +1,4 @@
+*.env
+node_modules
+mecanica-edkr-51678746e3ed.json
+package.json
